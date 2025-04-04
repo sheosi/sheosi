@@ -9,7 +9,7 @@ Passionate about crafting high-performance solutions with Rust and C++, I build 
 
 **Tech Stack:**
 - **Proficient In:** Rust, C++, Go, Svelte, and a medley of Rust web frameworks.
-- **Currently Learning:** Roc ⚡ and Zig 🛠️ because the quest for better tools is never-ending!
+- **Currently Learning:** Roc 🛠️ and Zig ⚡ because the quest for better tools is never-ending!
 
 **Looking Ahead:**
 I'm on the hunt for exciting freelance opportunities. Let's build something amazing together! 🚀 Whether it's a distributed system or a sleek web app, I'm all in for the challenge.
